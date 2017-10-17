@@ -36,7 +36,7 @@ javac -cp ./src -d bin -encoding UTF-8 ru/gnusinay/client/Client.java
 
 Для запуска:
 1. Необходимо поместить в директорию bin/ru/gnusinay/server файл конфигурации сервера config.properties.
-Его можно найти в исходном коде, в каталоге ru/gnusinay/server 
+Его можно найти в каталоге src/ru/gnusinay/server 
 
 2. Запуск сервера из каталога bin
 
